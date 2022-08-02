@@ -1,0 +1,245 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.onoqq.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 9896,
+            "children": [
+                {
+                    "url": "http://www.onoqq.com/style/img/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.onoqq.com/style/img/background.jpg",
+                    "path": "img/background.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.onoqq.com/style/js/jquery-1.11.1.min.js",
+                    "path": "js/jquery-1.11.1.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.onoqq.com/style/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.onoqq.com/style/js/wow.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.onoqq.com/style/js/jquery.magnific-popup.min.js",
+                    "path": "js/jquery.magnific-popup.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.onoqq.com/style/js/main.js",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.onoqq.com/style/css/css.css?family=Open+Sans:400,400i,600,600i%7cSource+Sans+Pro:300",
+                    "path": "css/css.css",
+                    "saved": true,
+                    "size": 1105,
+                    "children": [
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf",
+                            "path": "fonts/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/memnYaGs126MiZpBA-UFUKXGUdhrIqY.ttf",
+                            "path": "fonts/memnYaGs126MiZpBA-UFUKXGUdhrIqY.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/mem8YaGs126MiZpBA-UFVZ0e.ttf",
+                            "path": "fonts/mem8YaGs126MiZpBA-UFVZ0e.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/mem5YaGs126MiZpBA-UNirkOUuhs.ttf",
+                            "path": "fonts/mem5YaGs126MiZpBA-UNirkOUuhs.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf",
+                            "path": "fonts/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.onoqq.com/style/css/ionicons.min.css",
+                    "path": "css/ionicons.min.css",
+                    "saved": true,
+                    "size": 51243,
+                    "children": [
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/ionicons.eot?v=2.0.0",
+                            "path": "fonts/ionicons.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/ionicons.ttf?v=2.0.0",
+                            "path": "fonts/ionicons.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/ionicons.woff?v=2.0.0",
+                            "path": "fonts/ionicons.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/ionicons.svg?v=2.0.0#Ionicons",
+                            "path": "img/ionicons.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.onoqq.com/style/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 121193,
+                    "children": [
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/glyphicons-halflings-regular.eot",
+                            "path": "fonts/glyphicons-halflings-regular.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/glyphicons-halflings-regular.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/glyphicons-halflings-regular.woff",
+                            "path": "fonts/glyphicons-halflings-regular.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/glyphicons-halflings-regular.ttf",
+                            "path": "fonts/glyphicons-halflings-regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.onoqq.com/style/css/img/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "path": "img/glyphicons-halflings-regular.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.onoqq.com/style/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 61632,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-onoqq-com-gkf2yc8",
+    "info": {
+        "remark": [],
+        "title": "OnoQQ - 易.简.实用的机器人框架",
+        "domain": "www.onoqq.com",
+        "origin": "http://www.onoqq.com",
+        "ip": "18.193.198.127",
+        "main": "index.html",
+        "url": "http://www.onoqq.com/",
+        "totalSize": "245 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.onoqq.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://www.onoqq.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "NWS_Oversea_AP",
+                "connection": "close",
+                "date": "Tue, 02 Aug 2022 14:43:40 GMT",
+                "cache-control": "no-cache",
+                "last-modified": "Wed, 20 Oct 2021 09:49:18 GMT",
+                "content-type": "text/html",
+                "content-length": "10448",
+                "x-nws-log-uuid": "12040187392652437170 793737c25e87e007a6ee934595762279",
+                "x-cache-lookup": "Hit From Disktank3",
+                "vary": "Accept-Encoding",
+                "etag": "\"616fe61e-28d0\"",
+                "strict-transport-security": "max-age=31536000",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-08-02T14:43:39.890Z",
+            "end": "2022-08-02T14:44:23.162Z"
+        }
+    },
+    "options": {
+        "url": "http://www.onoqq.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
