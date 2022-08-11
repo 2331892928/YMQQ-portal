@@ -37,18 +37,18 @@ module.exports = {
       },
       {
         text: '开始使用', link: '/pages/a20ce8/', items: [
-          { text: '下载框架', link: '/pages/a20ce8/' },
-          { text: '更新框架', link: '/pages/f14bdb/' },
-          { text: '激活授权', link: '/pages/3216b0/' },
-          { text: '添加账号', link: '/pages/54651a/' },
-          { text: '关于登陆', link: '/pages/1cc523/' },
-          { text: '插件管理', link: '/pages/f51918/' },
-          { text: '常见问题', link: '/pages/ce175c/' },
+          { text: '下载框架', link: '' },
+          { text: '更新框架', link: '' },
+          { text: '激活授权', link: '' },
+          { text: '添加账号', link: '' },
+          { text: '关于登陆', link: '' },
+          { text: '插件管理', link: '' },
+          { text: '常见问题', link: '' },
           {
             text: '插件开发', items: [
-              { text: '插件SDK下载', link: '/pages/793dcb/' },
-              { text: 'SDK示例', link: '/pages/2f674a/' },
-              { text: '开发注意事项', link: '/pages/2f674a/' },
+              { text: '插件SDK下载', link: '' },
+              { text: 'SDK示例', link: '' },
+              { text: '开发注意事项', link: '' },
             ]
           }
         ]
