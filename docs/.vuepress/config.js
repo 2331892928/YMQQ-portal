@@ -36,9 +36,9 @@ module.exports = {
         ]
       },
       {
-        text: '开始使用', link: '/pages/a20ce8/', items: [
-          { text: '下载框架', link: '' },
-          { text: '更新框架', link: '' },
+        text: '开始使用', link: '/pages/01xzkj/', items: [
+          { text: '下载框架', link: '/pages/01xzkj/' },
+          { text: '更新框架', link: '/pages/01gxkj/' },
           { text: '激活授权', link: '' },
           { text: '添加账号', link: '' },
           { text: '关于登陆', link: '' },
@@ -46,9 +46,10 @@ module.exports = {
           { text: '常见问题', link: '' },
           {
             text: '插件开发', items: [
-              { text: '插件SDK下载', link: '' },
-              { text: 'SDK示例', link: '' },
+              { text: '插件SDK下载', link: 'https://wwu.lanzouy.com/b017vt4dg' },
+              { text: 'SDK示例', link: 'https://wwu.lanzouy.com/b017vt4dg' },
               { text: '开发注意事项', link: '' },
+              { text: '开发文档', link: '' },
             ]
           }
         ]
