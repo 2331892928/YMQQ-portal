@@ -38,12 +38,12 @@ module.exports = {
       {
         text: '开始使用', link: '/pages/01xzkj/', items: [
           { text: '下载框架', link: '/pages/01xzkj/' },
-          { text: '更新框架', link: '/pages/01gxkj/' },
-          { text: '激活授权', link: '' },
-          { text: '添加账号', link: '' },
-          { text: '关于登陆', link: '' },
-          { text: '插件管理', link: '' },
-          { text: '常见问题', link: '' },
+          { text: '更新框架', link: '/pages/02gxkj/' },
+          { text: '激活授权', link: '/pages/03jhsq/' },
+          { text: '添加账号', link: '/pages/04tjzh/' },
+          { text: '关于登陆', link: '/pages/05gydl/' },
+          { text: '插件管理', link: '/pages/06cjgl/' },
+          { text: '常见问题', link: '/pages/07cjwt/' },
           {
             text: '插件开发', items: [
               { text: '插件SDK下载', link: 'https://wwu.lanzouy.com/b017vt4dg' },
