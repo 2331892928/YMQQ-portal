@@ -12,7 +12,7 @@ module.exports = {
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
     ['link', { rel: 'icon', href: '/img/favicon.ico' }], //favicons，资源放在public文件夹
-    ['meta', { name: 'keywords', content: 'vuepress,theme,blog,vdoing' }],
+    ['meta', { name: 'keywords', content: '简洁-稳定-高效-安全的QQ机器人框架,qq机器人框架,机器人框架,cqhttp,go-cqhttp,YMQQ,湮灭网络工作室,湮灭网络,vuepress,theme,blog,vdoing' }],
     ['meta', { name: 'theme-color', content: '#11a8cd' }], // 移动浏览器主题颜色
 
     //['meta', { name: 'wwads-cn-verify', content: '6c4b761a28b734fe93831e3fb400ce87' }], // 广告相关，你可以去掉
@@ -54,9 +54,9 @@ module.exports = {
           }
         ]
       },
-      { text: '更新日志', link: 'http://sq.ymfwq.vip/version.php' },
-      { text: '授权站', link: 'http://sq.ymfwq.vip/' },
-      { text: '社区论坛', link: '/' },
+      { text: '更新日志', link: 'http://sq.qqa.ltd/version.php' },
+      { text: '授权站', link: 'http://sq.qqa.ltd/' },
+      { text: '社区论坛', link: 'https://y.qqa.ltd' },
       {
         text: '联系我们', items: [
           { text: '官方群1', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=bPHphv4vPVuJ4YGnsHEIASXt0i489Ffo&jump_from=webapi' },
@@ -111,6 +111,16 @@ module.exports = {
           iconClass: 'icon-erji',
           title: '听音乐',
           link: 'https://music.163.com/#/playlist?id=755597173'
+        },
+        {
+          iconClass: 'icon-erji',
+          title: '湮灭网络工作室',
+          link: 'https://www.ymypay.cn/'
+        },
+        {
+          iconClass: 'icon-erji',
+          title: '湮灭易支付',
+          link: 'https://pay.ymypay.cn/'
         }
       ]
     },
